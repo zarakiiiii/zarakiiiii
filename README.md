@@ -8,4 +8,4 @@
 
 
 🔗 Featured Projects
-- RAG-based Knowledge Assistant
+- RAG-based Knowledge Assistant :  RAG-based Knowledge Assistant — PDF ingestion, FAISS retrieval, FastAPI backend, Streamlit UI
